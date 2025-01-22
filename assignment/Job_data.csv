@@ -1,0 +1,10 @@
+﻿job,pay,edu,exp,train,n_employed,outlook,change_employment,top_places,physical_work_environment,social_work_environment
+data scientist,108020,BS,None,None,202900,36,73100,DC,"office, remote, outside",team or solo
+lawyer,145760,JD,None,None,859000,5,44200,CA,office,team or solo
+Producer and Directors,82510,BA,5,None,167900,8,13500,CA,onsite,team
+Human Resource Specialist,67650,BA,None,None,933700,8,74200,CA,"office, remote",team
+Entertainment and Recreation Manager,73460,BA,5,None,35800,11,3900,CA,outside,team
+"News Analysts, Reporters, and Journalists",57500,BA,None,None,49800,-3,-1400,NY,"office, remote, outside",team or solo
+Editors,75020,BA,5,None,14200,-2,-2300,NY,"office, remote",team or solo
+Advertising Promotions and Marketing Managers,156580,BA,None,None,411300,8,31100,NY,"office, remote",team
+Travel Agents,47410,GED,None,Moderate,68800,3,2300,FL,"office, remote",solo
